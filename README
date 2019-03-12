@@ -3,3 +3,8 @@ Part 1: Create Authentication for user sign-up and sign-in.
 - Sign-In: allows users to sign in with username, password
 - Forget-password: Allows users to use sign in if they forget their password, using 2FA
 - Services: Amazon Cognito and AWS Amplify 
+Part 2:
+- AWS GraphQL
+- AWS Lambda Functions
+- AWS S3 Bucket
+- AWS DynamoDB
