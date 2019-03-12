@@ -1,0 +1,5 @@
+Part 1: Create Authentication for user sign-up and sign-in.
+- Sign-Up: allows users to sign up with username, password, phone number, email and uses 2FA
+- Sign-In: allows users to sign in with username, password
+- Forget-password: Allows users to use sign in if they forget their password, using 2FA
+- Services: Amazon Cognito and AWS Amplify 
